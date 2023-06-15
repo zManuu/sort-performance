@@ -1,4 +1,4 @@
-import { SortFn } from '.'
+import { SortFn } from './test'
 
 const fn: SortFn = (arr) => {
   let comparisions = 0
